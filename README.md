@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working at [Sahaj Software Solutions](https://sahaj.ai/)
 
-- 🌱 I’m currently learning **Machine learning for trading and Game development using AI**
-
 - 👨‍💻 All of my projects are available at [https://github.com/aswathmadhubabu-dot?tab=repositories](https://github.com/aswathmadhubabu-dot?tab=repositories)
 
 - 📝 I never write articles on [https://medium.com/](https://medium.com/)
