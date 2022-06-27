@@ -9,15 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aswathmadhubabu-dot?tab=repositories](https://github.com/aswathmadhubabu-dot?tab=repositories)
 
-- 📝 I never write articles on [https://medium.com/](https://medium.com/)
-
-- 💬 Ask me about **react, python, software architecture and design, problem solving**
+- 💬 Ask me about **react, java, kotlin, spring-boot, python, software architecture and design, problem solving**
 
 - 📫 How to reach me **ases573@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aswathmadhubabu/](https://www.linkedin.com/in/aswathmadhubabu/)
 
-- ⚡ Fun fact **I'm too addicted to learn new cool stuff**
+- ⚡ Fun fact **I'm always excited to learn new cool stuff**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswathmadhubabu-dot&show_icons=true&locale=en&layout=compact" alt="aswathmadhubabu-dot" /></p>
